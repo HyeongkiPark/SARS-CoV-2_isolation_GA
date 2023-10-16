@@ -1,2 +1,0 @@
-The file "Features_comparison.R" is code to draw the following figures:
-Figure4
