@@ -1,0 +1,5 @@
+The file "reconstructed viral dynamics.R" is code to draw the following figures:
+Figure1, Figure4, Figure S1, Figures S6, Figures S7
+
+The file "transmission probability.R" and "duration-auc trade-off.R"is code to draw the following figures:
+Figure1
