@@ -10,11 +10,11 @@ Then, run the code below.
 
 When the docker image is successfully made, run the code below and run&start the container.
 
-For Max,
+- For Max,
 
 `docker run --rm=true -p 8888:8888 -v $PWD:/tmp -it sarscov2_isolation_ga /bin/bash`
 
-For Windows,
+- For Windows,
 
 `docker run --rm=true -p 8888:8888 -v %cd%:/tmp -it sarscov2_isolation_ga /bin/bash`
 
@@ -25,5 +25,6 @@ Finally, start jupyter notebook and execute the cells.
 Open the link "localhost:8888".
 
 :::note warn
+Warning
 If another jupyter notebook is open, the link may not successfully opened.
 :::
