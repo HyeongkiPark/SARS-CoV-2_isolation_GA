@@ -1,4 +1,4 @@
-# code for GA_python
+# Source code for GA_python
 
 This code is most aimed for docker use.
 
