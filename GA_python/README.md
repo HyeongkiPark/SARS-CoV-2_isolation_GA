@@ -28,3 +28,6 @@ Open the link "localhost:8888".
 Warning
 If another jupyter notebook is open, the link may not successfully opened.
 :::
+
+> **Warning**
+> If another jupyter notebook is open, the link may not successfully opened.
