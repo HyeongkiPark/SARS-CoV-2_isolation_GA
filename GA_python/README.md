@@ -25,4 +25,4 @@ Finally, start jupyter notebook and execute the cells.
 Open the link "localhost:8888".
 
 > **Warning**
-> If another jupyter notebook is open, the link may not open successfully.
+> If another jupyter notebook is already open, the link may not open successfully.
