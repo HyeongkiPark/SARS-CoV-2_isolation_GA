@@ -18,7 +18,7 @@ When the docker image is successfully made, run the code below and run&start the
 
 `docker run --rm=true -p 8888:8888 -v %cd%:/tmp -it sarscov2_isolation_ga /bin/bash`
 
-Finally, start jupyter notebook ("VirusEvolution_Simulator.ipynb") and execute the cells.
+Finally, start jupyter notebook (VirusEvolution_Simulator.ipynb) and execute the cells.
 
 `jupyter notebook --port 8888 --ip=0.0.0.0 --allow-root --NotebookApp.token='' --notebook-dir 'tmp'`
 
