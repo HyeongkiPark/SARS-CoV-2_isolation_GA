@@ -1,6 +1,6 @@
 # Source code for implementing GA_python
 
-This code is most aimed for docker use.
+This code is most aimed for docker use (I only check the code works for version=20.10.12).
 
 First, go into "scr" repository.
 
